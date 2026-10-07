@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Rift Bot</title>
+        <item>
+            <title>0.1.0-alpha.20261007070206</title>
+            <pubDate>Wed, 07 Oct 2026 00:06:02 -0700</pubDate>
+            <sparkle:channel>alpha</sparkle:channel>
+            <sparkle:version>20261007070206</sparkle:version>
+            <sparkle:shortVersionString>0.1.0-alpha.20261007070206</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/euforicio/rift-bot-releases/releases/download/v0.1.0-alpha.20261007070206/Rift-Bot-0.1.0-alpha.20261007070206-macos-arm64.zip" length="221226178" type="application/octet-stream" sparkle:edSignature="7JfPjKGLZAUz/yr0diS8HWajqUSAPaUf6FJQH0Qxn3bPQwOi/JqsQdhvGwAXYmivZdspJe7u99V4swaDC8L8AQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: ydLSO1VFgmvX1OE0DzyD2dA+5LOeKEFhBCGSjLYb0/Xk4BZgvld/2iL8iF1KMiUmy37vCnR/2HquqXMTB8gICg==
+length: 1294
+-->
