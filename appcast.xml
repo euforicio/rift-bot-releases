@@ -6,6 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Rift Bot</title>
         <item>
+            <title>0.1.0-alpha.20261018105244</title>
+            <pubDate>Sun, 18 Oct 2026 11:21:02 +0000</pubDate>
+            <sparkle:channel>alpha</sparkle:channel>
+            <sparkle:version>20261018105244</sparkle:version>
+            <sparkle:shortVersionString>0.1.0-alpha.20261018105244</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/euforicio/rift-bot-releases/releases/download/v0.1.0-alpha.20261018105244/Rift-Bot-0.1.0-alpha.20261018105244-macos-arm64.zip" length="1908796329" type="application/octet-stream" sparkle:edSignature="Ki+K8WdNQ/oyZRw8isFR94jjOomBdUeTP/+f/cF9qlOcyc7Cp/OVwZMMfel2oNayP/NfrxhDYk7bKqu9PO+OAA=="/>
+        </item>
+        <item>
             <title>0.1.0-alpha.20261018054423</title>
             <pubDate>Sun, 18 Oct 2026 06:10:17 +0000</pubDate>
             <sparkle:channel>alpha</sparkle:channel>
@@ -148,6 +158,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: jX9HWCR2YLJSdE8z0JbERbVXwl2awiV2Rjb9+gT/qccXGGbnNwnJPfhnE7RqWAZY/hahgJRR+wClMTIZvSaBBQ==
-length: 12397
+edSignature: xMD4l92Qsu6Mt6Wyg56bhEMCy00dUqUY+Sausinbp9NTF+81aYu6MclikN8fbyafAW65ZcoBwJUerMLijXqTCQ==
+length: 13252
 -->
